@@ -5,7 +5,7 @@ public class Main {
         for (Number n : list)
             System.out.println(n);
     }
-
+// ques 1
     public static void main(String[] args) {
         List<Integer> nums = Arrays.asList(1,2,3);
         print(nums);
